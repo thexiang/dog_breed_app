@@ -1,0 +1,5 @@
+click
+csvkit
+psycopg2
+SQLAlchemy==1.4.28
+environs==9.3.5

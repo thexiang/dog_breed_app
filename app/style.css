@@ -1,0 +1,12 @@
+h1, a, th {
+    color: #43A6C6 !important;
+}
+
+
+[data-testid="stSidebarNav"] {
+    background-image: url("https://static.vecteezy.com/system/resources/thumbnails/005/484/229/small/dog-logo-illustration-free-vector.jpg");
+    background-repeat: no-repeat;
+    padding-top: 150px;
+    background-position: 10px 10px;
+    padding-bottom: 50px;
+}
